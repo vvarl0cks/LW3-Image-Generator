@@ -1,4 +1,0 @@
-# netlify.toml
-[build]
-  base = "LW3-Image-Generator"  # Set this if your Next.js project is in a subdirectory
-  publish = "aidentifier"  # Set this to ".next" or your custom distDir
