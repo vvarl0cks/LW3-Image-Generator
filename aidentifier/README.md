@@ -7,7 +7,7 @@ In this lesson, we’re gonna be building a project that makes use of image gene
 - https://nodejs.org/en/download      
 - https://huggingface.co/   
 
-## Demo   
+## Demo 🧙‍♂️ https://warlocks-imagen.netlify.app   
 
 <img src="https://iili.io/HDCcj0N.png" alt="HDCcj0N.png" border="0" /></a>
 
